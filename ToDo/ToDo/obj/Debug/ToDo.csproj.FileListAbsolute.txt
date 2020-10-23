@@ -85,3 +85,4 @@ E:\visualStudioProjekts\reactNativeTest\kata\asp\ToDo\ToDo\obj\Debug\ToDo.dll
 E:\visualStudioProjekts\reactNativeTest\kata\asp\ToDo\ToDo\obj\Debug\ToDo.pdb
 E:\visualStudioProjekts\reactNativeTest\kata\asp\ToDo\ToDo\obj\Debug\ToDo.App_LocalResources.Constants.resources
 E:\visualStudioProjekts\reactNativeTest\kata\asp\ToDo\ToDo\obj\Debug\ToDo.csproj.GenerateResource.Cache
+E:\visualStudioProjekts\reactNativeTest\kata\asp\ToDo\ToDo\obj\Debug\ToDo.csproj.CoreCompileInputs.cache

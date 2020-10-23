@@ -117,6 +117,18 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="DBHost" xml:space="preserve">
+    <value>amtodoapp.mongo.cosmos.azure.com</value>
+  </data>
+  <data name="DBPaswd" xml:space="preserve">
+    <value>************</value>
+  </data>
+  <data name="DBPort" xml:space="preserve">
+    <value>10255</value>
+  </data>
+  <data name="DBUser" xml:space="preserve">
+    <value>amtodoapp</value>
+  </data>
   <data name="ToDoDBName" xml:space="preserve">
     <value>ToDo</value>
   </data>
